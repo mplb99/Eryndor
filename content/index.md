@@ -1,13 +1,11 @@
 ---
-title: Welcome to Quartz
+title: Eryndor Homepage
 ---
 [[z_pc_index|Player Characters]]
 
 [[Eryndor|World]]
 
-[[z_Dungeons_index|Dungeons]]
-
-[[z_Natural_Locations_index|Natural Locations]]
+[[z_Specific_Locations_index|Specific Locations]]
 
 This is a blank Quartz installation.
 See the [documentation](https://quartz.jzhao.xyz) for how to get started.
