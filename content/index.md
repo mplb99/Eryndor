@@ -5,5 +5,7 @@ title: Welcome to Quartz
 
 [[Eryndor|World]]
 
+[[z_Dungeons_index|Dungeons]]
+
 This is a blank Quartz installation.
 See the [documentation](https://quartz.jzhao.xyz) for how to get started.
