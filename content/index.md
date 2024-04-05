@@ -16,3 +16,5 @@ title: Eryndor Homepage
 [[z_Items_index|Items]]
 
 [[z_Flora_and_Fauna_index|Flora and Fauna]]
+
+[[z_Religions_index|Religions]]
