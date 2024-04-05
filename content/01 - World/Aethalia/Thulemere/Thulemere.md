@@ -10,8 +10,6 @@ The regional advisor for Thulemere is [[Selvanna Everglade]].
 ## Map
 ![[Thulemere_Region]]
 
-
-
 ## Cities
 ### [[Podol]] 
 
