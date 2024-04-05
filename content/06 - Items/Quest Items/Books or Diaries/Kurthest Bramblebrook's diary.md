@@ -1,5 +1,5 @@
 ---
 title: Kurthest Bramblebrook's Diary
-draft: false
+draft: true
 tags:
 ---
