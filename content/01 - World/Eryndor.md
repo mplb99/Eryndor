@@ -13,31 +13,7 @@ All manner of other races lived around the west coast of Eryndor before humans f
 
 ## Map
 
-```leaflet
-
-id: Eryndor_Map_ID
-
-image: [[Eryndor.jpg]]
-
-height: 500px
-
-lat: 50
-
-long: 50
-
-minZoom: 1
-
-maxZoom: 10
-
-defaultZoom: 7
-
-unit: meters
-
-scale: 1
-
-darkMode: false
-
-```
+![[Eryndor.jpg]]
 
 ## Regions and cities
 [[Aethalia]]
