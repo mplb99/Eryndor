@@ -7,9 +7,13 @@ tags:
 
 ## Profile
 Character Type: Villain
+
 Race: Red Dragon
+
 Age: 489
+
 From: [[Drakespire]]
+
 Occupation: Red Dragon
 
 | Organisation | Role | Time With |

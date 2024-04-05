@@ -1,6 +1,6 @@
 ---
 title: Magical Groups
-draft: false
+draft: true
 tags:
 ---
 

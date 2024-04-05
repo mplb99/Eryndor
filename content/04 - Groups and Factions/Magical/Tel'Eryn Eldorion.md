@@ -1,6 +1,6 @@
 ---
 title: Tel'Eryn Eldorion
-draft: false
+draft: true
 tags:
 ---
 ## Overview

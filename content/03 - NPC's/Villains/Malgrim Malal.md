@@ -7,9 +7,13 @@ tags:
 
 ## Profile
 Character Type: 
-Race: 
+
+Race: Human
+
 Age:
+
 From:
+
 Occupation:
 
 | Organisation | Role | Time With |

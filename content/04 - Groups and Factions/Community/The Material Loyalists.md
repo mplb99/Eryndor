@@ -1,6 +1,6 @@
 ---
 title: The Material Loyalists
-draft: false
+draft: true
 tags:
 ---
 ## Overview
