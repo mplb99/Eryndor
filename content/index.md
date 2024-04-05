@@ -14,3 +14,5 @@ title: Eryndor Homepage
 [[z_Significant_World_Events_index|Significant World Events: Current and Historical]]
 
 [[z_Items_index|Items]]
+
+[[z_Flora_and_Fauna_index|Flora and Fauna]]
