@@ -12,3 +12,5 @@ title: Eryndor Homepage
 [[z_Groups_and_Factions_index|Groups and Factions]]
 
 [[z_Significant_World_Events_index|Significant World Events: Current and Historical]]
+
+[[z_Items_index|Items]]
