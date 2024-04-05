@@ -7,9 +7,13 @@ tags:
 
 ## Profile
 Character Type:  Bard
+
 Race: Tiefling
+
 Age: 39
+
 From: [[Alassia]]
+
 Occupation: Bard
 
 | Organisation | Role | Time With |

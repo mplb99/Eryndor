@@ -4,8 +4,8 @@ draft: false
 tags:
 ---
 ## Brief Overview 
-
 The capital city of [[Karak]].
+
 ## Description
 
 #### Population

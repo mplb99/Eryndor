@@ -7,9 +7,13 @@ tags:
 
 ## Profile
 Character Type: 
-Race: 
+
+Race: Dark-Elf
+
 Age:
+
 From:
+
 Occupation:
 
 | Organisation | Role | Time With |

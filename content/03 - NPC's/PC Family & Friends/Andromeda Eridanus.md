@@ -7,9 +7,13 @@ tags:
 
 ## Profile
 Character Type: Commoner
+
 Race: Halfling 
+
 Age: 61
+
 From: [[Alassia]] 
+
 Occupation: Baker
 
 | Organisation | Role | Time With |

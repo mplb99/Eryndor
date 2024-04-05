@@ -7,9 +7,13 @@ tags:
 
 ## Profile
 Character Type: Commoner
-Race: Locothah
+
+Race: Human
+
 Age: 65
+
 From: 
+
 Occupation: Farmer
 
 | Organisation | Role | Time With |

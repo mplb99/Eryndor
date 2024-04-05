@@ -7,9 +7,13 @@ tags:
 
 ## Profile
 Character Type: 
+
 Race: 
+
 Age:
+
 From: [[Podol]] 
+
 Occupation:
 
 | Organisation | Role | Time With |

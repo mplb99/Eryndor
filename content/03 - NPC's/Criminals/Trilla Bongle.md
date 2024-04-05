@@ -1,6 +1,6 @@
 ---
 title: Trilla Bongle
-draft: false
+draft: true
 tags:
 ---
 ![[ImagePlaceholder.png]]

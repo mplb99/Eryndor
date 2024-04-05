@@ -7,9 +7,13 @@ tags:
 
 ## Profile
 Character Type:  Soldier
+
 Race:  Dwarf
+
 Age: 59
+
 From: [[Karak]] 
+
 Occupation: Mercenary Leader
 
 | Organisation   | Role   | Time With |

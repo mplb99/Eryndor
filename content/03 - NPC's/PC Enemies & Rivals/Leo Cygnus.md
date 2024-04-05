@@ -7,9 +7,13 @@ tags:
 
 ## Profile
 Character Type: Commoner
+
 Race: Wood-Elf
+
 Age: 23
+
 From: [[Alassia]]
+
 Occupation: Wizard
 
 | Organisation | Role | Time With |

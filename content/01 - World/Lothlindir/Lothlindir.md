@@ -4,8 +4,8 @@ draft: false
 tags:
 ---
 ## Description
-
 Lothlindir is located to the north of [[Lothariel]]. The main ruling tribe there is the [[Narandil]], who tend to be the most outgoing of all the Elven tribes.
+
 ## Map
 ```leaflet 
 id: new-map 

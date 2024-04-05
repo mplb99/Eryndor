@@ -7,10 +7,14 @@ tags:
 
 ## Profile
 Character Type: 
-Race: 
+
+Race: Harengon
+
 Age:
-From:
-Occupation:
+
+From: [[Pitchfork Woods|The Pitchfork Woods]]
+
+Occupation: Cleric
 
 | Organisation | Role | Time With |
 | ------------ | ---- | --------- |

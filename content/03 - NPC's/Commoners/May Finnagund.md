@@ -7,9 +7,13 @@ tags:
 
 ## Profile
 Character Type:  Commoner
+
 Race: Kobold
+
 Age: 
+
 From: 
+
 Occupation:
 
 | Organisation | Role | Time With |

@@ -4,8 +4,8 @@ draft: false
 tags:
 ---
 ## Brief Overview 
-
 A poor and crime ridden city in the Dwarvish kingdom of [[Karak]].
+
 ## Description
 
 #### Population

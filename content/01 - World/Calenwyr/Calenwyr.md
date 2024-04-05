@@ -4,11 +4,12 @@ draft: false
 tags:
 ---
 ## Description
-
 The Calnewyr forest is located just north west of [[Thulemere]]. It is a few days ride east of the Dwarvern Kingdom of [[Durakarn]].
+
 ## Regions and cities
 [[Aerebell]]
 [[Jandor]]
+
 ## Map
 ```leaflet 
 id: new-map 

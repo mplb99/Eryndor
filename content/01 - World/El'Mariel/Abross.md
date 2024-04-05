@@ -1,11 +1,11 @@
 ---
 title: Abross
-draft: false
+draft: true
 tags:
 ---
 ## Brief Overview 
-
 Abross is a settlement of sorts in the forest of [[El'Mariel]]. It is more a meeting place for all creatures arcane and non, noble and criminal. It contains mystical arcane energies, the nature of which has proven a challenge for even the most talented scholars to ascertain.
+
 ## Description
 
 #### Population

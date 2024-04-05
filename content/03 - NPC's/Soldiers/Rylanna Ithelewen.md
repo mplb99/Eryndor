@@ -7,9 +7,13 @@ tags:
 
 ## Profile
 Character Type: Soldier
+
 Race: Elf
+
 Age: 103
+
 From: Thalindrel
+
 Occupation: Mercenary
 
 | Organisation   | Role   | Time With |

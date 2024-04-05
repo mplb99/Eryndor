@@ -7,9 +7,13 @@ tags:
 
 ## Profile
 Character Type: Commoner
+
 Race: Half-Orc
+
 Age: 23
+
 From: [[Podol]]
+
 Occupation: Blacksmith/Jeweller
 
 | Organisation                                            | Role   | Time With |

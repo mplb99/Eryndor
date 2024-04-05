@@ -7,9 +7,13 @@ tags:
 
 ## Profile
 Character Type:  Commoner
+
 Race: Half-Elf
+
 Age: 41
+
 From: 
+
 Occupation:
 
 | Organisation | Role | Time With |

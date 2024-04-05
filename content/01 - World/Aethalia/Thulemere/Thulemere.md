@@ -8,19 +8,7 @@ Thulemere is the more industrial side of [[Aethalia]]. Blacksmiths, carpenters a
 
 The regional advisor for Thulemere is [[Selvanna Everglade]].
 ## Map
-```leaflet 
-id: map-Thulemere-region 
-image: [[Thulemere_Region.jpg]] 
-height: 500px 
-lat: 50 
-long: 50 
-minZoom: 1 
-maxZoom: 10 
-defaultZoom: 8
-unit: meters 
-scale: 1 
-darkMode: false,
-```
+![[Thulemere_Region]]
 
 
 

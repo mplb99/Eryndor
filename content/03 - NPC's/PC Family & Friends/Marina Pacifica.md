@@ -7,9 +7,13 @@ tags:
 
 ## Profile
 Character Type:  Scholar
+
 Race:  Water Genasi 
+
 Age: 22
+
 From: [[Alassia]]
+
 Occupation: Student in [[Heliokon]]
 
 | Organisation | Role | Time With |

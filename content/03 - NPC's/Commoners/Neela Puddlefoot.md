@@ -7,9 +7,13 @@ tags:
 
 ## Profile
 Character Type: 
+
 Race: Tortle
+
 Age: 69
+
 From: One of the new cities in Thulemere 
+
 Occupation: Farmer
 
 | Organisation | Role | Time With |

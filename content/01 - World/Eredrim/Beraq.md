@@ -5,6 +5,7 @@ tags:
 ---
 ## Brief Overview 
 Beraq is a primarily trading based down, south-east of [[Eredrim]]. 
+
 ## Description
 
 #### Population

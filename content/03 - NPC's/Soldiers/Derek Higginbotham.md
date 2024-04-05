@@ -7,9 +7,13 @@ tags:
 
 ## Profile
 Character Type: Soldier
+
 Race: Human
+
 Age: 47
+
 From: [[Sildurgriding]]
+
 Occupation: [[The Brizar|Brizar]] Mercenary
 
 | Organisation   | Role      | Time With |

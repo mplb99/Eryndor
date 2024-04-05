@@ -1,6 +1,6 @@
 ---
 title: Magic Locations
-draft: false
+draft: true
 tags:
 ---
 

@@ -4,8 +4,8 @@ draft: false
 tags:
 ---
 ## Brief Overview 
+Jandor is a town in the [[Calenwyr]] forest, it is the place for organised underground crime gangs. They try and avoid upsetting the elves in the forest too much and the elves in turn, don't take a large interest in their operations. Politically, it is hard for anyone in [[Aethalia]] to do something about these gangs and they don't want to be seen pressing into the [[Calenwyr]] forest and causing trouble with the elves who live there.
 
-Jandor is a town in the [[Calenwyr]] forest, it is the place for organised underground crime gangs. They try and avoid upsetting the elves in the forest too much and the elves in turn, don't take a large interest in their operations. Politically, it is hard for anyone in [[Aethalia]] to do something about these gans ans they don't want to be seen pressing into the [[Calenwyr]] forest and causing trouble with the elves who live there.
 ## Description
 
 #### Population
