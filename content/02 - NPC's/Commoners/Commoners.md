@@ -3,6 +3,6 @@ title: Commoners
 draft: false
 tags:
 ---
-[[Casey Shortshanks]]
+[[Gushoon]]
 
 [[Mary Brandywood]]

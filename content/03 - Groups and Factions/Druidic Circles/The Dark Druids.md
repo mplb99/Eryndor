@@ -4,7 +4,7 @@ draft: false
 tags:
 ---
 ## Overview
-A druidic circle focussed on death and decay. They are from .
+A druidic circle focussed on death and decay. They are from near [[Dalir]].
 ## Leadership
 
 ## Members

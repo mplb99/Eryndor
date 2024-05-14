@@ -1,15 +1,15 @@
 ---
-title: Meldram Cardun
-draft: true
+title: Gushoon
+draft: false
 tags:
 ---
 ![[ImagePlaceholder.png]]
 
 ## Profile
-Race: Dwarf
-Age:
-From:
-Occupation: Former Cultist/Bullywug Leader.
+Race: Tiefling
+Age: 28
+From: [[Alodon]]
+Occupation: Potter
 
 | Organisation | Role | Time With |
 | ------------ | ---- | --------- |
@@ -22,7 +22,7 @@ DnD Beyond Link:
 ## Roleplaying and Signature Lines
 
 ## Relationships
-- Former husband of [[Ella Plainchant]].
+
 ## Motivations
 
 

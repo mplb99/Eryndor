@@ -7,7 +7,7 @@ tags:
 
 [[Criminal Organisations]]
 
-[[Cults]]
+[[Cultists]]
 
 [[Druidic Circles]]
 
