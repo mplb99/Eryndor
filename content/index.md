@@ -1,20 +1,19 @@
 ---
-title: Eryndor Homepage
+title: Letherynnor
+draft: false
+tags:
 ---
-[[z_pc_index|Player Characters]]
+[[PC's]]
 
-[[Eryndor|World]]
+[[Letherynnor]]
 
-[[z_Specific_Locations_index|Specific Locations]]
+[[NPC's]]
 
-[[z_NPC's_index|NPC's]]
+[[Religions]]
 
-[[z_Groups_and_Factions_index|Groups and Factions]]
+[[History]]
 
-[[z_Significant_World_Events_index|Significant World Events: Current and Historical]]
+[[Items]]
 
-[[z_Items_index|Items]]
+[[Flora and Fauna]]
 
-[[z_Flora_and_Fauna_index|Flora and Fauna]]
-
-[[z_Religions_index|Religions]]
