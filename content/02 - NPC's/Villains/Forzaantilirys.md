@@ -6,7 +6,7 @@ tags:
 ![[ImagePlaceholder.png]]
 
 ## Profile
-Race: 
+Race: Dragon
 Age:
 From: Age Unknown Before the Creation of the World
 Occupation:

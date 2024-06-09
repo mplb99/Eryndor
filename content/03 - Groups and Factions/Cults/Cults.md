@@ -1,5 +1,6 @@
 ---
 title: Cults
-draft: true
+draft: false
 tags:
 ---
+[[The Golden Moon]]
