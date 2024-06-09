@@ -23,7 +23,7 @@ DnD Beyond Link:
 
 ## Relationships
 - Best friends with [[Merilyn Caelus]]
-- Works for [[Hiccup]]
+- Works for 
 ## Motivations
 
 

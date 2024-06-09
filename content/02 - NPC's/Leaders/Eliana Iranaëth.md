@@ -32,7 +32,7 @@ DnD Beyond Link:
 - "I see 7 of you here, if I have to make it 6 to protect my 12, I will."
 - "If you sell us out, I will not die, all of you will. I will make whatever deal in hell I have to, because my soul would already be blackened and dead by my failure to defend and protect what I was entrusted with."
 ## Relationships
-
+- Bastard daughter of a king/queen of Otrana/Espax, given up after she was 9 years old. Will not admit that, came on a ship to escape one of them and ended up here. Both kingdoms assume she is dead, obviously would be a huge political threat to one and asset to the other.
 ## Motivations
 - Keep as many of the survivors alive as possible
 - Look for a way off the island.

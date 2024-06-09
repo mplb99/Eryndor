@@ -1,15 +1,15 @@
 ---
-title: Gushoon
-draft: false
+title: Edrel
+draft: true
 tags:
 ---
 ![[ImagePlaceholder.png]]
 
 ## Profile
-Race: Tiefling
-Age: 28
-From: [[Alodon]]
-Occupation: Potter
+Race: Hobgoblin
+Age: 47
+From:
+Occupation: High Cleric of Lathander in the [[The Virtuous Divines|Church of the Virtuous Divines]]
 
 | Organisation | Role | Time With |
 | ------------ | ---- | --------- |
@@ -18,12 +18,11 @@ Occupation: Potter
 DnD Beyond Link:
 
 ## Description
-Large red tiefling, approximately 6'4" with slightly purple tinged horns.
+
 ## Roleplaying and Signature Lines
-- "Best Friend?"
-- "King Gushoon?"
+
 ## Relationships
-- Fiance of Belcria
+
 ## Motivations
 
 

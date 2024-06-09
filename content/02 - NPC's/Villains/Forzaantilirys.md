@@ -1,15 +1,15 @@
 ---
-title: Gushoon
-draft: false
+title: Forzaantilirys
+draft: true
 tags:
 ---
 ![[ImagePlaceholder.png]]
 
 ## Profile
-Race: Tiefling
-Age: 28
-From: [[Alodon]]
-Occupation: Potter
+Race: 
+Age:
+From: Age Unknown Before the Creation of the World
+Occupation:
 
 | Organisation | Role | Time With |
 | ------------ | ---- | --------- |
@@ -18,12 +18,11 @@ Occupation: Potter
 DnD Beyond Link:
 
 ## Description
-Large red tiefling, approximately 6'4" with slightly purple tinged horns.
+
 ## Roleplaying and Signature Lines
-- "Best Friend?"
-- "King Gushoon?"
+
 ## Relationships
-- Fiance of Belcria
+
 ## Motivations
 
 

@@ -224,7 +224,6 @@ monster: Kuo-Toa Whip
 ```
 #### Map
 ![[Survivalists Village.jpg]]
-
 #### Loot
 40 gold pieces in bits and pieces, small trinkets etc on the Kuo-toa.
 #### After the Encounter
@@ -243,10 +242,12 @@ The bullywugs are led by a Beserker called [[Meldram Cardun]]. He was the former
 
 But his children were taken from him as soon as they got their hands on them. Meldram was driven insane as they kept them from him, before eventually teleporting him away, after he made one last desperate attempt to save them, where he luckily was blown to the island.
 
-He has very little memory of his actions, he doesn't remember if he tried to save his children, or what the cult are doing with them. He's fairly sure they're not dead as they seemed important to the cult. 
+Thought that by pretending to have gone willingly he would be kept in the loop, but he was made a lackey of the cult and the children taken from him.
+After 20 years, he made one last desperate attempt to save his children, but found them to be completely indoctrinated into the cult.
+They teleported him away somewhere completely random, and he ended up in the Bullywug swamp.
 #### Description
 ```statblock
-monster: Berserker 
+monster: Bugbear Chief
 ```
 ```statblock
 monster: Bullywug
@@ -255,11 +256,39 @@ monster: Bullywug
 #### Map
 ![[bullywug camp.png]]
 #### Loot
-20gp and a letter from [[Ella Plainchant]], a love letter that she sent her husband [[Meldram Cardun]] before they got married, it was the only thing that kept him somewhat sane. 
+20gp and A [[Letter from Ella Plainchant to Meldram Cardun|letter from Ella Plainchant]] , a love letter that she sent her husband [[Meldram Cardun]] before they got married, it was the only thing that kept him somewhat sane. 
+
 #### After the Encounter
 
 ## The Goblins 
-Leader of the goblins is called Harold. The goblins were outcasts of a larger goblin tribe called [[The Embergrin Tribe]]. Harold tried to start a rebellion against the current leadership after he was cheated out of a share of treasure, a simple raid on a caravan. This escalated and became an open rebellion. He was defeated and the goblins paid the [[Stormcoast Otrana]], a pirate organisation to dump them somewhere. The pirates dumped them on this island about 3 years ago and they've been just about surviving ever since.  
+
+### Goblin Scouting Party 
+#### Overview
+The players may want to see if they can deal with any Goblins/Bullywugs roaming the island. If they do so they can get more details on the Goblin camp.
+#### Description
+
+- Goblin scouting party consists of 5 goblins and 1 goblin boss.
+- Goblins laughing and joking with each other in Goblin.
+- Whenever one of the goblins speaks they go very quiet and listen intently.
+- Goblins are heading south 
+- Personalities: Discussing what it means to be isolated.
+
+```statblock
+monster: Goblin  
+```
+```statblock
+monster: Goblin Boss 
+```
+
+
+#### Map
+![[Scouting-Goblins-Map.jpg]]
+#### Loot
+16gp
+#### After the Encounter
+Leader of the goblins is called Harold. The goblins were outcasts of a larger goblin tribe called The Embergrin Tribe. Harold tried to start a rebellion against the current leadership after he was cheated out of a share of treasure, a simple raid on a caravan. This escalated and became an open rebellion. He was defeated and the goblins paid the Stormcoast Otrana, a pirate organisation to dump them somewhere. The pirates dumped them on this island about 3 years ago and they've been just about surviving ever since.  
+Around 20-25 goblins total at the Goblin encampment, on top of one of the hills in the north, well hidden by some dense trees and bushes.
+Lots of traps around the camp - spike traps in front of the gate.
 #### Description
 ```statblock
 monster: Goblin 
@@ -276,8 +305,89 @@ monster: Hobgoblin Warlord
 Beautifully crafted +1 dagger as well.
 #### After the Encounter
 
-## The Kuo-Toa Lair
+## The Portal
+#### Overview
+If the players choose to tell the Goblins about the Kuo-Toa and they successfully convince the Goblins to help with the fighting of them, you can create an encounter between the Goblins and the Kuo-Toa. 
 
+When the encounter is over, the portal remains open for 15 minutes or so, the players can choose at that point to enter into the underdark and leave the islanders behind. DC10 Arcana check allows the players to use the portal and they are dropped straight into another encounter as the Kuo-Toa watch from the watchtowers.
+#### Description
+- Sun goes down 
+- Make them wait and RP between themselves and the Goblins 
+- The Goblins will want to leave and maybe require some persuasion checks to stay 
+- But suddenly the ground starts glowing a deep purple - chanting emanates from the ground and 6 kuo-toa suddenly phase into existence within the portal, which remains glowing.
+- 
+```statblock
+monster: Hobgoblin Warlord
+```
+```statblock
+monster: Goblin Boss
+```
+```statblock
+monster: Goblin
+```
+```statblock
+monster: Kuo-Toa Monitor
+```
+```statblock
+monster: Kuo-Toa 
+```
+#### Map
+![[Goblins vs Kuo-Toa.jpg]]
+#### Loot
+2gp per Kuo-Toa defeated
+5gp per Kuo-Toa Monitor defeated 
+2gp per Goblin defeated 
+5gp per Goblin Boss defeated 
+100gp if the Goblin Warlord is defeated + a ring that grants +1 constitution and +1 intelligence
+#### After the Encounter
+PC's can elect to go through the portal with a successful DC10 Arcana check 
+
+## How to Get Through the Portal
+- The portal remains open for a short period of time after the Kuo-Toa leave it.
+- The way to get through is to either Ambush them there or follow through quickly. Both pose risks.
+- If they come up with some other cool idea, let it work.
+- Entrance to the portal, is located in the front of a large underdark stronghold. The Kuo-Toa have taken this thing over using the power of the gem.
+- See a that they are next to a river, which leads into the front of a castle, the river flows in through a large gate, that looks like it should contain a portcullis, but instead icy white stalactites hang down precariously, two other openings either side of it are set against rocky and precarious terrain where the faintest misstep could send you plunging into the icy depths of the black water that flows stealthily into the fortress.
+- The PC's see a magical stream of purple energy, that flows around an equivalent stone circle in the underdark, they can follow the trace of this purple energy to find the location of the gem.
+![[kuo-toa-underdark.jpeg]]
+## The Kuo-Toa Lair
+### Entrance Room - Fight (SKIP)
+#### Overview 
+
+#### Description 
+
+#### Monsters 
+6 x Kuo-Toa 
+1 x Kuo-Toa Magic User (dependant upon level 4 abilities.)
+#### Map 
+![[Underdark Portal.jpg]]
+
+### Library - Bear Puzzle from Whispering Burrows
+Statues are arranged in a circle. Clockwise from the top:
+
+Dragon,
+Lion,
+Bear,
+Eagle,
+Wolf
+##### Description
+In the library you see 5 statues made of dark stone.
+They are statutes of a Dragon, a Lion, a Bear, an Eagle and a Wolf.
+
+Looking for a book with successful DC 15 arcana or investigation checks.
+
+Each of them has in front of them a potion bottle, each with a mysterious yellow liquid glowing inside of it. 
+  
+The eagle has no poison in it's beak,
+Drink from the wolf and your strong legs remain,
+Sadly the dragon has not what you seek,
+One neighbour stops your sight and one causes pain.
+The bear will let you move at will,
+And for the dragon, poison is not for him to spill,
+
+When the adventurers drink the correct potion the door opens
+### Throne Room
+![[Kuo-Toa Lair.jpg]]
 ## The Gem
 
 ## Escape from the Island

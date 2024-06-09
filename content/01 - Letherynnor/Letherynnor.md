@@ -25,3 +25,6 @@ tags:
 [[Vardyl]]
 
 [[The Yongelap Islands]]
+
+## Current Date and Time
+![[Current Date and Time]]

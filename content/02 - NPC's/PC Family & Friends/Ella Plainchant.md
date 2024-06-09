@@ -6,10 +6,10 @@ tags:
 ![[ImagePlaceholder.png]]
 
 ## Profile
-Race: 
-Age:
-From:
-Occupation:
+Race: Halfling
+Age: 57
+From: [[Elensefar]]
+Occupation: Druid
 
 | Organisation        | Role   | Time With |
 | ------------------- | ------ | --------- |

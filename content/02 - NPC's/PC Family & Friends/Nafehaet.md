@@ -1,15 +1,15 @@
 ---
-title: Gushoon
-draft: false
+title: Nafehaet
+draft: true
 tags:
 ---
 ![[ImagePlaceholder.png]]
 
 ## Profile
-Race: Tiefling
-Age: 28
-From: [[Alodon]]
-Occupation: Potter
+Race: 
+Age:
+From:
+Occupation: Bard
 
 | Organisation | Role | Time With |
 | ------------ | ---- | --------- |
@@ -18,14 +18,12 @@ Occupation: Potter
 DnD Beyond Link:
 
 ## Description
-Large red tiefling, approximately 6'4" with slightly purple tinged horns.
-## Roleplaying and Signature Lines
-- "Best Friend?"
-- "King Gushoon?"
-## Relationships
-- Fiance of Belcria
-## Motivations
 
+## Roleplaying and Signature Lines
+- Agent of the 
+## Relationships
+- Former lover of [[Zariah Elsenfan]]
+## Motivations
 
 
 
