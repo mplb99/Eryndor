@@ -1,15 +1,16 @@
 ---
-title: Forzaantilirys
+title: 
 draft: false
 tags:
 ---
 ![[ImagePlaceholder.png]]
 
 ## Profile
-Race: 
+Race: Eladrin
+Sex: Male
 Age:
-From: Age Unknown Before the Creation of the World
-Occupation:
+From: [[Involond]] 
+Occupation: Ceremonial Leader of [[Involond]] 
 
 | Organisation | Role | Time With |
 | ------------ | ---- | --------- |

@@ -1,14 +1,15 @@
 ---
-title: Forzaantilirys
+title: Qihana Nadre
 draft: false
 tags:
 ---
 ![[ImagePlaceholder.png]]
 
 ## Profile
-Race: 
+Race: Half-Elf
+Sex: Woman
 Age:
-From: Age Unknown Before the Creation of the World
+From:
 Occupation:
 
 | Organisation | Role | Time With |

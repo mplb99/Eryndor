@@ -13,3 +13,4 @@ tags:
 
 [[Villains]]
 
+[[Wizards & Scholars]]

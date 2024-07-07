@@ -1,14 +1,15 @@
 ---
-title: Forzaantilirys
+title: Zam
 draft: false
 tags:
 ---
 ![[ImagePlaceholder.png]]
 
 ## Profile
-Race: 
+Race: Kobold
+Sex: Man
 Age:
-From: Age Unknown Before the Creation of the World
+From:
 Occupation:
 
 | Organisation | Role | Time With |

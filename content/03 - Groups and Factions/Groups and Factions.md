@@ -13,4 +13,6 @@ tags:
 
 [[03 - Groups and Factions/Magical/Magical|Magical]]
 
+[[Political]] 
+
 [[Tribes]]

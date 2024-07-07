@@ -1,5 +1,5 @@
 ---
-title: Forzaantilirys
+title: 
 draft: false
 tags:
 ---
@@ -7,8 +7,9 @@ tags:
 
 ## Profile
 Race: 
+Sex: 
 Age:
-From: Age Unknown Before the Creation of the World
+From:
 Occupation:
 
 | Organisation | Role | Time With |
@@ -22,7 +23,7 @@ DnD Beyond Link:
 ## Roleplaying and Signature Lines
 
 ## Relationships
-
+- Sister of [[Yvalla Ustenn]]. 
 ## Motivations
 
 
