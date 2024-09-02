@@ -17,6 +17,7 @@ tags:
 ## Members
 - High Cleric [[Adran Hewertop]]
 - [[Nafehaet]], bard of the church and sent by the high cleric of Lathander [[Edrel]], to investigate [[The Kaname Madoka]]. 
-## History  
-
+- Cleric Ferzaerys
+- Vorzi and Vidris
+## History
 Before anything there was the dragon [[Forzaantilirys]] and the dragon Bahamut, created by the gods to represent Evil and Good in the world. They are engaged in a constant extra planar battle. The pure magical force of this battle created [[Letherynnor]] itself.

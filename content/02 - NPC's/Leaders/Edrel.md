@@ -1,6 +1,6 @@
 ---
 title: Edrel
-draft: true
+draft: false
 tags:
 ---
 ![[ImagePlaceholder.png]]

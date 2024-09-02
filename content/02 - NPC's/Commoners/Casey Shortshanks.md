@@ -1,6 +1,6 @@
 ---
 title: Casey Shortshanks
-draft: true
+draft: false
 tags:
 ---
 ![[ImagePlaceholder.png]]

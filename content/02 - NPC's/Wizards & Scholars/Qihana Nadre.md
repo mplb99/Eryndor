@@ -23,7 +23,7 @@ DnD Beyond Link:
 ## Roleplaying and Signature Lines
 
 ## Relationships
-
+- Boss of [[Thyros Drakenscale]]
 ## Motivations
 
 

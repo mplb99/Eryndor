@@ -1,6 +1,6 @@
 ---
 title: Magical
-draft: true
+draft: false
 tags:
 ---
 [[Nasse Lethryn]]

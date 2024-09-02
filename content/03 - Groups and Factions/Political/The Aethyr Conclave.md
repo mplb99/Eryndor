@@ -10,11 +10,11 @@ The current council is as follows:
 
 [[Qihana Nadre]] (Half-Elf)
 
-[[Zam]] (Kobold)
+[[Zam]] (Kobold) - Loyalist
 
-[[Soren Zachid]] (Tabaxi)
+[[Soren Zachid]] (Tabaxi) - Isolationist
 
-[[Duqum]] (Bugbear)
+[[Duqum]] (Bugbear) - Loyalists
 
 [[Kildurol]] (Loxodon)
 

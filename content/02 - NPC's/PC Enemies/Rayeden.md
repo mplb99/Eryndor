@@ -9,7 +9,7 @@ tags:
 Race: Drow
 Age:
 From:
-Occupation:
+Occupation: Cleric of [[The Kaname Madoka]]
 
 | Organisation | Role | Time With |
 | ------------ | ---- | --------- |

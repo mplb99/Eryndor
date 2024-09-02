@@ -3,4 +3,6 @@ title: Villains
 draft: false
 tags:
 ---
-[[Samantha Kellenbor]]
+[[High Mage Ebon Vairae]]
+
+[[Zyros Vanorin]]

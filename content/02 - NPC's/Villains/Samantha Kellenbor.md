@@ -8,7 +8,7 @@ tags:
 ## Profile
 Race: Vampire
 Age: 137
-From: [[Stolvale]] in [[Espax]]
+From:
 Occupation: Cult Leader
 
 | Organisation    | Role   | Time With |
@@ -24,7 +24,5 @@ DnD Beyond Link:
 ## Relationships
 
 ## Motivations
-
-- Maintain her ability to steal life, vampire, from the 
 
 

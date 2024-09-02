@@ -6,7 +6,7 @@ tags:
 ![[ImagePlaceholder.png]]
 
 ## Profile
-Race: 
+Race: Half-Elf
 Age:
 From:
 Occupation: Bard
@@ -18,9 +18,11 @@ Occupation: Bard
 DnD Beyond Link:
 
 ## Description
-
+- Agent who spied on Zariah, knew that appearing weak would help her get close to her
+- Goes by Fay 
+- Currently imprisoned by Lolth
 ## Roleplaying and Signature Lines
-- Agent of the 
+- Agent of [[The Virtuous Divines]] 
 ## Relationships
 - Former lover of [[Zariah Elsenfan]]
 ## Motivations

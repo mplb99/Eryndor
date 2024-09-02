@@ -1,6 +1,6 @@
 ---
 title: Ramiel
-draft: false
+draft: true
 tags:
 ---
 ![[ImagePlaceholder.png]]

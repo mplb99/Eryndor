@@ -7,7 +7,7 @@ tags:
 
 ## Profile
 Race: Kobold
-Sex: Man
+Sex: Male
 Age:
 From:
 Occupation:

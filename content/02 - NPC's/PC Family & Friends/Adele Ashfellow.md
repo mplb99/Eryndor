@@ -22,7 +22,8 @@ DnD Beyond Link:
 ## Roleplaying and Signature Lines
 
 ## Relationships
-
+- Former wife of [[Delphine Darkmoor]]
+- 
 ## Motivations
 
 

@@ -13,4 +13,8 @@ tags:
 
 [[Soren Zachid]]
 
+[[Thyros Drakenscale]]
+
+[[Trenya Ustenn]]
+
 [[Zam]]

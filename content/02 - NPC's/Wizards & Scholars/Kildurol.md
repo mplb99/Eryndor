@@ -25,7 +25,6 @@ DnD Beyond Link:
 ## Relationships
 
 ## Motivations
-
-- Involved with [[The Order of the Ebon Gate]], using the power afforded to him by the council to slowly find more information about [[High Mage Ebon Vairae]] and any magical means that might be able to bring her back.
-
+- Involved with [[The Order of the Ebon Gate]].
+ 
 

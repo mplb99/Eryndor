@@ -13,14 +13,14 @@ Occupation: Circus Ringleader
 
 | Organisation     | Role       | Time With |
 | ---------------- | ---------- | --------- |
-| [[Escape Plane]] | Ringleader | 7 years   
+| [[Circus Phenomena]] | Ringleader | 7 years   
 
 DnD Beyond Link:
 
 ## Description
-
+- Dark raven haired kenku
 ## Roleplaying and Signature Lines
-
+- Like a Grandpa
 ## Relationships
 
 ## Motivations

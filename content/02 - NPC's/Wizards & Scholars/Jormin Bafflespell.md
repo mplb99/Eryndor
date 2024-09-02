@@ -19,7 +19,7 @@ DnD Beyond Link:
 
 ## Description
 - Gnome
-- White hair that's faded in a terrible combover
+- Black hair that's faded in a terrible combover
 - Small moustache
 - Long oval face, wearing full white tie and waistcoat
 - Smokes a lot of cigarettes
@@ -30,6 +30,8 @@ DnD Beyond Link:
 - French accent
 - Calls himself Nighthawk
 - Illusion wizard
+- Cannot fathom that anyone would have a neagtive opinion about him
+- Loves the circus and the 'good life' in general
 ## Relationships
 - Former friend of [[Yvalla Ustenn]] 
 - Had a falling out after he slept with her sister, [[Trenya Ustenn]]

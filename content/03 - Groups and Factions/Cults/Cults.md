@@ -1,6 +1,6 @@
 ---
 title: Cults
-draft: false
+draft: true
 tags:
 ---
-[[The Golden Moon]]
+[[The Order of the Ebon Gate]]

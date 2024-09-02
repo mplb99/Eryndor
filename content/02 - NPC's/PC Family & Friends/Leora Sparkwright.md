@@ -13,7 +13,7 @@ Occupation: Circus performer
 
 | Organisation     | Role      | Time With |
 | ---------------- | --------- | --------- |
-| [[Escape Plane]] | Performer | 4 years   
+| [[Circus Phenomena]] | Performer | 4 years   
 
 DnD Beyond Link:
 
